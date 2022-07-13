@@ -1,0 +1,10 @@
+1.wav  He's still so hang up on his dead dog that no one can persuade him to eat.
+2.wav  Yes, we should try to contact more.
+3.wav  Oh, we've a lot to learn.
+4.wav  Do you know the way to Melbourne?
+5.wav  I like the traditions very much.
+6.wav  Well, I'll restart the machine and hope for the best.
+7.wav  He is learning to ride a bicycle.
+8.wav  I'm not sure about that, we'd better ask the lady there.
+9.wav  Have you ever received any vaccination?
+10.wav Can you tell me where to alter my suits in the downtown?
